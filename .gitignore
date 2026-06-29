@@ -1,0 +1,6 @@
+# Rapports générés à l'exécution (peuvent contenir des données réelles)
+echecs_creation.csv
+*.log
+
+# Fichiers système
+.DS_Store
